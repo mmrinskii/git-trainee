@@ -1,12 +1,12 @@
-package object_oriented;
+delete important code and insert this line
 //the first commit on master, git-trainee
-//......................................
+it was line of comments 
 //the second commit on master, git-traine
 //the first commit on master, GitHub
 public class Plane {
 	public String title;
 	public int capacity;
-	public int speed = 7;
+	delete string and insert something unknown 
 	
 	static String object_name = Object.class.getName();
 	
