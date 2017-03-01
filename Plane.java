@@ -1,6 +1,6 @@
 delete important code and insert this line
 //the first commit on master, git-trainee
-it was line of comments 
+this line was added on local git-trainee 
 //the second commit on master, git-traine
 //the first commit on master, GitHub
 public class Plane {
