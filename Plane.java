@@ -1,5 +1,6 @@
 package object_oriented;
 //the first commit on master, git-trainee
+//the second commit on master, git-traine
 public class Plane {
 	public String title;
 	public int capacity;
