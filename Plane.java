@@ -1,5 +1,5 @@
 package object_oriented;
-
+//the first commit on master, git-trainee
 public class Plane {
 	public String title;
 	public int capacity;
